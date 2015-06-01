@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8FB93A1B-412B-44F2-B53E-4403315C0D5A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BreakingBricks</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8B31974D9992623C548D8F58FE2FA929BEB3819E</key>
+		<string>github.com:yilinanyu/iosgame.git</string>
+		<key>D454ED7A8CF50B564BD5C59ABB7A30CDF237F65D</key>
+		<string>https://github.com/yilinanyu/BreakingBricks.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BreakingBricks.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8B31974D9992623C548D8F58FE2FA929BEB3819E</key>
+		<string>../..</string>
+		<key>D454ED7A8CF50B564BD5C59ABB7A30CDF237F65D</key>
+		<string>../../../BreakingBricks</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:yilinanyu/iosgame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8B31974D9992623C548D8F58FE2FA929BEB3819E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D454ED7A8CF50B564BD5C59ABB7A30CDF237F65D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BreakingBricks</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8B31974D9992623C548D8F58FE2FA929BEB3819E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iosgame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
