@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8B31974D9992623C548D8F58FE2FA929BEB3819E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D454ED7A8CF50B564BD5C59ABB7A30CDF237F65D" : 0,
+    "8B31974D9992623C548D8F58FE2FA929BEB3819E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8FB93A1B-412B-44F2-B53E-4403315C0D5A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D454ED7A8CF50B564BD5C59ABB7A30CDF237F65D" : "BreakingBricks",
+    "8B31974D9992623C548D8F58FE2FA929BEB3819E" : "iosgame"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BreakingBricks",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BreakingBricks.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:yilinanyu\/iosgame.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8B31974D9992623C548D8F58FE2FA929BEB3819E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yilinanyu\/BreakingBricks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D454ED7A8CF50B564BD5C59ABB7A30CDF237F65D"
+    }
+  ]
+}
